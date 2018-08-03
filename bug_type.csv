@@ -1,0 +1,124 @@
+bug_id,bug_type
+1182176,crash
+1187531,broken functionality
+1187534,broken functionality
+1189338,crash (unknown)
+1191713,startup crash
+1195844,startup crash
+1196899,crash
+1196905,crash
+1196911,crash
+1216267,crash (unknown)
+1219242,startup crash
+1222819,startup crash
+1225683,crash (unknown)
+1233556,startup crash
+1235537,startup crash
+1241145,crash
+1251020,crash
+1253755,broken functionality
+1258874,startup crash
+1258879,crash (unknown)
+1262348,startup crash
+1262787,startup crash
+1263519,crash
+1267990,crash (unknown)
+1268470,startup crash
+1268905,crash
+1269244,startup crash
+1270250,crash
+1270345,startup crash^crash
+1273015,startup crash
+1273406,crash
+1274115,crash
+1274630,crash
+1276921,crash (unknown)
+1277072,crash
+1277846,crash (unknown)
+1277897,startup crash
+1277987,startup crash
+1280537,broken functionality
+1281803,startup crash
+1285011,broken functionality
+1290403,startup crash
+1291736,startup crash
+1291738,startup crash
+1292248,startup crash
+1292268,startup crash
+1292582,plugin crash
+1293816,startup crash
+1294650,startup crash
+1295600,startup crash^crash
+1300480,startup crash^crash
+1302343,startup crash
+1304434,startup crash
+1304783,startup crash
+1305001,crash (unknown)
+1306563,crash (unknown)
+1310240,startup crash
+1311062,startup crash
+1311969,startup crash
+1313085,crash
+1313963,startup crash
+1314630,crash (unknown)
+1317281,broken functionality
+1317848,startup crash
+1318102,crash (unknown)
+1318858,startup crash
+1319632,crash (unknown)
+1322219,broken functionality
+1323578,plugin crash
+1324064,crash
+1326530,broken functionality
+1328838,crash
+1329451,crash (unknown)
+1329994,startup crash^crash
+1330991,crash (unknown)
+1330994,startup crash
+1332545,crash (unknown)
+1333486,crash (unknown)
+1333857,crash (unknown)
+1334153,crash (unknown)
+1335080,startup crash
+1335350,crash (unknown)
+1335432,startup crash
+1339083,startup crash
+1339304,broken functionality
+1340140,crash (unknown)
+1345152,crash
+1345631,crash
+1346244,hang
+1346765,crash
+1347240,hang
+1347243,startup crash
+1347631,crash (unknown)
+1347867,startup crash
+1347987,crash (unknown)
+1353785,startup crash
+1356637,broken functionality
+1356753,startup crash
+1359443,broken functionality
+1359576,crash (unknown)
+1360029,startup crash
+1361410,startup crash
+1362601,crash
+1363317,broken functionality
+1363332,crash
+1364792,crash (unknown)
+1367726,crash
+1367730,crash
+1368231,hang
+1369361,startup crash
+1369746,crash (unknown)
+1370807,crash (unknown)
+1371387,hang
+1373365,broken functionality
+1376514,crash (unknown)
+1376831,startup crash
+1377416,startup crash
+1377511,crash
+1378424,crash (unknown)
+1384327,startup crash
+1385542,crash (unknown)
+1385830,broken functionality
+1388370,broken functionality^crash

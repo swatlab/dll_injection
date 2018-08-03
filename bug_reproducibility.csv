@@ -1,0 +1,123 @@
+bug_id,does it affect any configuration or only a specific one?,final categorization
+1182176,"only specific configurations, reproducible by vendor's QA",reproducible
+1187531,DUPLICATE OF 1187534,ignore
+1187534,"unknown, probably not",unknown
+1189338,unknown,unknown
+1191713,unknown,unknown
+1195844,"unknown, probably not",unknown
+1196899,"unknown, our QA was able to reproduce",reproducible
+1196905,"unknown, our QA was able to reproduce (SAME BUG AS 1196899)",ignore
+1196911,"unknown, our QA was able to reproduce (SAME BUG AS 1196899)",ignore
+1216267,unknown,unknown
+1219242,"probably only (some? or all?) Dell laptops, reproducible by vendor's QA",reproducible
+1222819,unknown,unknown
+1225683,"unknown, only specific configurations",unknown
+1233556,"probably only (some? or all?) MSI laptops, issue already known by vendor",reproducible
+1235537,"probably affects all configurations, issue already known by vendor",reproducible
+1241145,"unknown, our QA was able to reproduce (SAME BUG AS 1196899)",ignore
+1251020,"unknown, reproducible by vendor's QA",reproducible
+1253755,unknown,unknown
+1258874,unknown,unknown
+1258879,unknown,unknown
+1262348,unknown,unknown
+1262787,unknown,unknown
+1267990,unknown,unknown
+1268470,"affects all Windows 8, reproducible by vendor's QA",reproducible
+1268905,probably only (some? or all?) Toshiba laptops,unknown
+1269244,unknown,unknown
+1270250,DUPLICATE OF 1233556,ignore
+1270345,unknown,unknown
+1273015,probably only (some? or all?) ASUS laptops,unknown
+1273406,probably only (some? or all?) Sony laptops,unknown
+1274115,probably only (some? or all?) Toshiba laptops,unknown
+1274630,unknown,unknown
+1276921,unknown,unknown
+1277072,unknown,unknown
+1277846,unknown,unknown
+1277897,unknown,unknown
+1277987,DUPLICATE OF 1233556,ignore
+1280537,unknown,unknown
+1281803,unknown,unknown
+1285011,unknown,unknown
+1290403,unknown,unknown
+1291736,DUPLICATE OF 1291738,ignore
+1291738,"unknown, not reproducible by our QA",not reproducible
+1292248,unknown,unknown
+1292268,unknown,unknown
+1292582,DUPLICATE OF 1290403,ignore
+1293816,unknown,unknown
+1294650,"unknown, reproducible by our QA",reproducible
+1295600,unknown,unknown
+1300480,unknown,unknown
+1302343,unknown,unknown
+1304434,"unknown, reproducible by our QA",reproducible
+1304783,"unknown, reproducible by our QA",reproducible
+1305001,"unknown, not reproducible by our QA",not reproducible
+1306563,DUPLICATE OF 1305001,ignore
+1310240,DUPLICATE OF 1304434,ignore
+1311062,"unknown, reproducible by our QA",reproducible
+1311969,"unknown, reproducible by vendor's QA",reproducible
+1313085,unknown,unknown
+1313963,DUPLICATE OF 1311969,ignore
+1314630,unknown,unknown
+1317281,"unknown, reproducible by our QA",reproducible
+1317848,DUPLICATE OF 682912,ignore
+1318102,unknown,unknown
+1318858,unknown,unknown
+1319632,unknown,unknown
+1322219,unknown,unknown
+1323578,unknown,unknown
+1324064,unknown,unknown
+1326530,unknown,unknown
+1328838,unknown,unknown
+1329451,unknown,unknown
+1329994,unknown,unknown
+1330991,unknown,unknown
+1330994,"unknown, reproducible by our QA",reproducible
+1332545,unknown,unknown
+1333486,unknown,unknown
+1333857,unknown,unknown
+1334153,unknown,unknown
+1335080,"affects all Windows 10, reproducible by our QA",reproducible
+1335350,unknown,unknown
+1335432,unknown,unknown
+1339083,"unknown, reproducible by our QA",reproducible
+1339304,DUPLICATE OF 1334503,ignore
+1340140,unknown,unknown
+1345152,unknown,unknown
+1345631,"unknown, reproducible by our QA and vendor's QA",reproducible
+1346244,"unknown, not reproducible by our QA",not reproducible
+1346765,probably only (some? or all?) Toshiba laptops,unknown
+1347240,unknown,unknown
+1347243,unknown,unknown
+1347631,unknown,unknown
+1347867,"unknown, reproducible by our QA",reproducible
+1347987,unknown,unknown
+1353785,unknown,unknown
+1356637,"unknown, reproducible by our QA",reproducible
+1356753,unknown,unknown
+1359443,all Firefox 64 bit,reproducible
+1359576,unknown,unknown
+1360029,unknown,unknown
+1361410,"unknown, reproducible by our QA",reproducible
+1362601,all configs,reproducible
+1363317,DUPLICATE OF 1363332,ignore
+1363332,unknown,unknown
+1364792,unknown,unknown
+1367726,unknown,unknown
+1367730,unknown,unknown
+1368231,unknown,unknown
+1369361,probably only some Lenovo laptops,unknown
+1369746,unknown,unknown
+1370807,unknown,unknown
+1371387,unknown,unknown
+1373365,"unknown, reproducible by our QA",reproducible
+1376514,unknown,unknown
+1376831,"unknown, reproducible by vendor's QA",reproducible
+1377416,unknown,unknown
+1377511,unknown,unknown
+1378424,"unknown, not reproducible by vendor's QA",not reproducible
+1384327,all configs,reproducible
+1385542,unknown,unknown
+1385830,unknown,unknown
+1388370,"unknown, our QA was not able to reproduce",not reproducible

@@ -1,0 +1,215 @@
+bug_id,is_dll_injection,dll_name,software_type,how_resolved,is_publicly_available
+1181180,no,,,,
+1182176,"via addon",idmcchandler3_64.dll,?,"fixed by the vendor",yes
+1183903,no,,,,
+1185184,no,,,,
+1185933,no,,,,
+1186084,no,,,,
+1187531,"via addon",?,antivirus,duplicate,yes
+1187534,"via addon",?,antivirus,wontfix,yes
+1189338,yes,?,malware,"not yet resolved",no
+1191713,yes,wrusr.dll,antivirus,worksforme,yes
+1195844,yes,dlumd10.dll^dlumd11.dll^dlumd32.dll,"hardware vendor driver",blocklisted,no
+1196699,no,,,,
+1196899,"via addon",tmbpffcore.dll,antivirus,"addon blocked",yes
+1196905,"via addon",tmbpffcore.dll,antivirus,"addon blocked",yes
+1196911,"via addon",tmbpffcore.dll,antivirus,"addon blocked",yes
+1209973,no,,,,
+1210648,no,,,,
+1212635,no,,,,
+1213608,no,,,,
+1215921,no,,,,
+1216267,yes,sxwmon64.dll,antivirus,worksforme,no
+1216943,no,,,,
+1219242,yes,sboxhost.dll^sboxdll.dll,antivirus,"fixed by the vendor",yes
+1220461,no,,,,
+1220495,no,,,,
+1222819,yes,grabdll.dll^grabkernel.dll,"download manager",blocklisted,yes
+1225683,yes,ig4dev32.dll,"hardware vendor driver",worksforme,yes
+1232990,no,,,,
+1233556,yes,nahimicmsiosd.dll,"hardware vendor driver",blocklisted,yes
+1235537,yes,banksafe.dll,antivirus,"blocklisted^fixed by the vendor",yes
+1236343,no,,,,
+1240027,no,,,,
+1240195,no,,,,
+1240561,no,,,,
+1241145,"via addon",tmbpffcore.dll,antivirus,blocklisted,yes
+1250542,no,,,,
+1251020,yes,eoppmonitor.dll^mbae.dll,antivirus,"not yet resolved",yes
+1253750,no,,,,
+1253755,yes,?,antivirus,worksforme,yes
+1255428,no,,,,
+1256134,no,,,,
+1258874,yes,"RANDOM NAMES",malware,"not yet resolved",no
+1258879,yes,__dlpsyringe__.dll,antivirus,"not yet resolved",no
+1262345,no,,,,
+1262348,yes,ss2osd.dll,"hardware vendor driver",blocklisted,yes
+1262787,yes,mmhk,malware,"not yet resolved",no
+1262810,no,,,,
+1263519,unknown,?,?,?,
+1264169,no,,,,
+1265335,no,,,,
+1265338,no,,,,
+1265339,no,,,,
+1265344,no,,,,
+1267990,yes,tms.dll,malware,worksforme,no
+1268470,yes,klsihk64.dll,antivirus,"blocklisted^fixed by the vendor",yes
+1268905,yes,tosqep.dll^tosqep64.dll,"hardware vendor driver",blocklisted,no
+1269142,no,,,,
+1269244,yes,nhasusstrixosd.dll,"hardware vendor driver",blocklisted,no
+1270250,yes,nahimicmsiosd.dll,"hardware vendor driver",duplicate,yes
+1270345,yes,wbload.dll,"desktop customization","not yet resolved",yes
+1272788,no,,,,
+1273015,yes,sr2osd.dll,"hardware vendor driver","not yet resolved",no
+1273406,yes,isonyvideoprocessor.dll^isonyvideoprocessor64.dll,"hardware vendor driver",blocklisted,no
+1274115,yes,tosqep.dll^tosqep64.dll,"hardware vendor driver",blocklisted,no
+1274630,yes,guard32.dll^guard64.dll,antivirus,"fixed by the vendor",yes
+1275731,no,,,,
+1276921,yes,rapporttanzanex*,antivirus,duplicate,yes
+1277072,yes,fsdomnodefirefox.dll,"screen reader","fixed by the vendor",yes
+1277691,no,,,,
+1277846,yes,pmls.dll^rlls.dll,malware,blocklisted,no
+1277897,"via addon",npmcffplg32.dll,antivirus,"fixed by switching to webextension",yes
+1277987,yes,nahimic2osd.dll,"multimedia tool",duplicate,yes
+1280537,unknown,?,antivirus,wontfix,yes
+1281803,yes,rapporttanzanex*,antivirus,"fixed by the vendor",yes
+1282270,no,,,,
+1283607,no,,,,
+1284098,no,,,,
+1285011,yes,?,antivirus,worksforme,yes
+1287424,no,,,,
+1288199,no,,,,
+1290403,yes,chtbrkg.dll,malware,"not yet resolved",no
+1291455,no,,,,
+1291736,yes,qipcap.dll,antivirus,duplicate,no
+1291738,yes,qipcap.dll,antivirus,duplicate,no
+1292248,yes,avmsnd.dll,"hardware vendor driver",wontfix,no
+1292268,yes,chtbrkg.dll,malware,duplicate,no
+1292582,yes,ss2osd.dll,"hardware vendor driver",wontfix,yes
+1292789,no,,,,
+1293816,"via addon",?,antivirus,wontfix,yes
+1294650,yes,qipcap.dll,antivirus,"workaround^fixed by the vendor",no
+1295600,yes,rapporttanzanex*,antivirus,wontfix,yes
+1297534,no,,,,
+1298157,no,,,,
+1298397,no,,,,
+1298690,no,,,,
+1299205,no,,,,
+1300480,yes,hmpalert.dll,antivirus,"fixed by the vendor",yes
+1301664,no,,,,
+1302175,no,,,,
+1302343,yes,?,antivirus,"fixed by the vendor",yes
+1304304,no,,,,
+1304434,yes,qipcap.dll,antivirus,"fixed by switching to webextension",no
+1304783,yes,qipcap.dll,antivirus,workaround,no
+1305001,yes,uipfull.dll^uipfullx64.dll,IME,"not yet resolved",unknown
+1306117,no,,,,
+1306563,yes,uipfull.dll^uipfullx64.dll,IME,duplicate,unknown
+1307585,no,,,,
+1310240,yes,qipcap.dll,antivirus,duplicate,no
+1311062,yes,nvdahelperremote.dll,"screen reader",worksforme,yes
+1311969,yes,nzbrcom.dll^nzbrcom32.dll,antivirus,"fixed bug in firefox",yes
+1312302,no,,,,
+1313085,yes,qipcap.dll,antivirus,"fixed by switching to webextension",no
+1313452,no,,,,
+1313763,no,,,,
+1313963,yes,nzbrcom.dll^nzbrcom32.dll,antivirus,duplicate,yes
+1314630,"via addon",nativemessagingdispatcher.dll,?,"fixed by retiring legacy addons",yes
+1317281,unknown,?,antivirus,"fixed by the vendor",yes
+1317848,yes,qipcap.dll,antivirus,duplicate,no
+1318102,yes,vc32loader.dll,malware,worksforme,no
+1318858,yes,dgapi,antivirus,worksforme,yes
+1318906,no,,,,
+1319632,yes,cmsetac.dll,malware,wontfix,no
+1320970,no,,,,
+1322219,yes,?,antivirus,"fixed by the vendor",yes
+1322894,no,,,,
+1323578,yes,IPSEng.dll^IPSEng32.dll^clpbm.dll,antivirus,"not yet resolved",yes
+1324064,"via printing",frdvpr_ui.dll,?,"fixed bug in firefox",yes
+1324858,no,,,,
+1325761,no,,,,
+1326530,"via addon",?,antivirus,wontfix,yes
+1328191,no,,,,
+1328838,yes,amdocl.dll^amdocl64.dll^amdocl12cl64.dll^amdocl64.dll,"hardware vendor driver","not yet resolved",yes
+1329451,yes,sgfxu32.dll,"hardware vendor driver",worksforme,no
+1329994,yes,hmpalert.dll,antivirus,wontfix,yes
+1330366,no,,,,
+1330579,no,,,,
+1330991,yes,dropboxext.8.0.dll,"file hosting service",worksforme,yes
+1330994,yes,?,"screen reader",worksforme,yes
+1332545,"via addon",libdanecore-winnt-x86_64.dll^libdanecore-winnt-x86.dll,?,worksforme,yes
+1333064,no,,,,
+1333486,yes,idmcchandler7.dll^idmcchandler7_64.dll^idmcchandler5.dll^idmcchandler5_64.dll,"download manager",blocklisted,yes
+1333857,yes,rapporttanzanutil_2015.dll,antivirus,"fixed by the vendor",yes
+1334153,yes,searchtree.dll,antivirus,worksforme,yes
+1334552,no,,,,
+1335080,yes,EasyHook32.dll,"multimedia tool",blocklisted,yes
+1335350,"via addon",mcbrwctl.dll,antivirus,"fixed by switching to webextension",yes
+1335432,yes,klsihk.dll^IPSEng32.dll,antivirus,"not yet resolved",yes
+1339083,yes,k7pswsen.dll^K7OEPlgn.dll^K7Crvr.dll,antivirus,"fixed by the vendor",yes
+1339304,yes,?,antivirus,"fixed by the vendor",yes
+1339908,no,,,,
+1340140,yes,aswJsFlt.dll,antivirus,"not yet resolved",yes
+1343172,no,,,,
+1344722,no,,,,
+1345152,yes,jaudcap.dll,"multimedia tool","not yet resolved",yes
+1345587,no,,,,
+1345631,yes,MySpeed,"multimedia tool","fixed by the vendor",yes
+1346244,yes,sophos_detoured.dll,antivirus,"not yet resolved",yes
+1346765,yes,tosqep.dll^tosqep64.dll,"hardware vendor driver","not yet resolved",yes
+1347240,yes,sophos_detoured.dll,antivirus,wontfix,yes
+1347243,yes,safemon.dll,antivirus,"fixed by the vendor",yes
+1347340,no,,,,
+1347631,yes,FsDomNodeFirefox.dll,accessibility,"fixed by the vendor",yes
+1347867,yes,SCDETOUR.DLL,antivirus,"fixed by the vendor",yes
+1347987,yes,mfplat.dll,?,worksforme,yes
+1352788,no,,,,
+1353785,yes,?,malware,worksforme,no
+1354208,no,,,,
+1355968,no,,,,
+1356637,yes,Nahimic2DevProps.dll,"hardware vendor driver",blocklisted,yes
+1356753,yes,CBTHook.dll,?,invalid,yes
+1358931,no,,,,
+1359443,yes,?,?,"fixed by the vendor",yes
+1359576,yes,gaming_spy.dll,antivirus,"fixed by the vendor",yes
+1360029,yes,Nahimic2OSD.dll,"hardware vendor driver",blocklisted,yes
+1361410,yes,WRusr.dll,antivirus,workaround,no
+1361456,no,,,,
+1362435,no,,,,
+1362585,no,,,,
+1362601,yes,libesets_pac.so,antivirus,workaround,yes
+1362810,no,,,,
+1363317,yes,avcuf32.dll^avcuf64.dll,antivirus,duplicate,yes
+1363332,yes,avcuf32.dll^avcuf64.dll,antivirus,"fixed by the vendor",yes
+1364352,no,,,,
+1364792,yes,aswhooka.dll,antivirus,wontfix,yes
+1366837,no,,,,
+1367726,yes,iseguard64.dll,antivirus,"fixed by the vendor",yes
+1367730,yes,?,"hardware vendor driver",invalid,yes
+1368173,no,,,,
+1368231,yes,mbae.dll,antivirus,"not yet resolved",yes
+1369361,yes,ActiveDetect64.dll^WindowsApiHookDll64.dll,"hardware vendor driver",workaround,no
+1369746,yes,netload.dll,antivirus,worksforme,no
+1370807,yes,RapportTanzanUtil53_2015.dll^RapportUtil.dll^RapportGP.DLL^RapportTanzanEx510.DLL^TRF.dll^rooksdol.dll^RapportGH.dll^rooksbas.dll,antivirus,worksforme,yes
+1371076,no,,,,
+1371387,yes,wrusr.dll,antivirus,"not yet resolved",no
+1373353,no,,,,
+1373365,?,?,antivirus,"fixed by the vendor",yes
+1373974,no,,,,
+1376435,no,,,,
+1376514,"via addon",mcbrwctl.dll,antivirus,"fixed by switching to webextension",yes
+1376831,yes,cmdshim32.dll,antivirus,"fixed by the vendor",yes
+1377028,no,,,,
+1377416,yes,pghook.dll,antivirus,duplicate,no
+1377511,yes,wsapi.dll,antivirus,wontfix,yes
+1377865,no,,,,
+1377995,no,,,,
+1378231,no,,,,
+1378424,yes,k7pswsen.dll^k7oeplgn.dll^K7OEPlgn.dll^k7crvr.dll^K7TSHelp.dll,antivirus,"fixed by the vendor",yes
+1382592,no,,,,
+1384327,yes,klsihk64.dll,antivirus,"fixed by the vendor",yes
+1385542,yes,PGHook.dll,antivirus,blocklisted,yes
+1385830,yes,?,antivirus,worksforme,yes
+1388370,pkcs#11,aetpkss1.dll,pcks#11,"fixed bug in firefox",no
+1389067,no,,,,
+1389967,no,,,,
